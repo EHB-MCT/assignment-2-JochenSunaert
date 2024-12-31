@@ -1,3 +1,4 @@
+// code to connect to the database, in this case using Mongodb
 const mongoose = require('mongoose');
 require('dotenv').config();
 

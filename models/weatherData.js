@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+// database structure 
 
 const WeatherDataSchema = new mongoose.Schema({
     dateid: { 
